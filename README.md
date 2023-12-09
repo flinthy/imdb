@@ -1,7 +1,9 @@
 Catálogo de Filmes
+
 Este é um projeto Java que implementa um catálogo de filmes usando conceitos de programação orientada a objetos. O projeto inclui classes para representar pessoas (atores e diretores), filmes e um catálogo para gerenciar essas informações.
 
 Estrutura do Projeto
+
 Pessoa: Classe abstrata que representa uma pessoa. As classes Ator e Diretor herdam dessa classe.
 
 Ator: Representa um ator com informações como nome, data de nascimento e papel desempenhado em um filme.
